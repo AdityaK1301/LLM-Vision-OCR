@@ -235,5 +235,4 @@ Add your preferred license file (e.g., MIT). This repository currently has no li
 
 ## Known Improvements
 - Convert `api.py` to accept file uploads (multipart/form-data) and return a unique download URL.
-- Replace the hard-coded API key references with environment variable usage and add validation.
 - Prepare a `requirements.txt` and a dockerfile for containerized deployment.
