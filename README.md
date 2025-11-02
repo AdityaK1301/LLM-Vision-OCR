@@ -53,8 +53,6 @@ This project sends an image (base64) to the Groq chat/completions endpoint with 
   - Uploads an image in the browser and uses the Groq client to create the same chat/completion request.
   - Returns an Excel file for browser download.
 
-- `image.txt` — contains a base64-encoded image (example). Not required to run the apps but present in the repository.
-
 ---
 
 ## Requirements
